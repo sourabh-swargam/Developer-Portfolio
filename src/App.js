@@ -105,7 +105,7 @@ function App() {
               <Router>
                 <Header />
                 <Routes>
-                  {["/", "/home", "/dev-portfolio"].map(path => (
+                  {["/", "/home", "/Developer-Portfolio"].map(path => (
                     <Route path={path} element={<HomePage />} />
                   ))}
                   <Route path="/education" element={<StudyPage />} />
