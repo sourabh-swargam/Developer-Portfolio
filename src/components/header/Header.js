@@ -26,7 +26,7 @@ function Header() {
   return (
     <Headroom>
       <header className={isDark ? "dark-menu header" : "header"}>
-        <Link to={"/"} className="logo">
+        <Link to={"/Developer-Portfolio"} className="logo">
           {/* <a href="/" className="logo"> */}
           <span className="grey-color"> &lt;</span>
           <span className="logo-name">{greeting.username}</span>
@@ -43,19 +43,19 @@ function Header() {
         </label>
         <ul className={isDark ? "dark-menu menu" : "menu"}>
           <li>
-            <Link to="/home">Home</Link>
+            <Link to="/Developer-Portfolio">Home</Link>
             {/* <a href="/home">Home</a> */}
           </li>
           <li>
-            <Link to="/work">Work</Link>
+            <Link to="/Developer-Portfolio/work">Work</Link>
             {/* <a href="/work">Work</a> */}
           </li>
           <li>
-            <Link to="/education">Education</Link>
+            <Link to="/Developer-Portfolio/education">Education</Link>
             {/* <a href="/education">Education</a> */}
           </li>
           <li>
-            <Link to="/projects">Projects</Link>
+            <Link to="/Developer-Portfolio/projects">Projects</Link>
             {/* <a href="/projects">Projects</a> */}
           </li>
           {/* {viewOpenSource && (

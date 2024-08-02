@@ -105,12 +105,22 @@ function App() {
               <Router>
                 <Header />
                 <Routes>
-                  {["/", "/home", "/Developer-Portfolio"].map(path => (
+                  {/* {["/", "/home", "/Developer-Portfolio"].map(path => (
                     <Route path={path} element={<HomePage />} />
-                  ))}
-                  <Route path="/education" element={<StudyPage />} />
-                  <Route path={"/work"} element={<WorkPage />} />
-                  <Route path={"/projects"} element={<ProjectPage />} />
+                  ))} */}
+                  <Route path="/Developer-Portfolio" element={<HomePage />} />
+                  <Route
+                    path="/Developer-Portfolio/education"
+                    element={<StudyPage />}
+                  />
+                  <Route
+                    path="/Developer-Portfolio/work"
+                    element={<WorkPage />}
+                  />
+                  <Route
+                    path="/Developer-Portfolio/projects"
+                    element={<ProjectPage />}
+                  />
                 </Routes>
               </Router>
               {/* <Footer /> */}
