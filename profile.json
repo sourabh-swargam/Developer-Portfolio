@@ -1,0 +1,39 @@
+{
+  "data": {
+    "user": {
+      "name": null,
+      "bio": "🤖 AI Enthusiast | 🚀 Full-Stack Developer | 📚 Lifelong Learner\r\n\r\n\r\n🌱 Always eager to collaborate on exciting projects",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/55691793?u=66ce9ae7983e8fc31ed173de9f129bf2fcb2fe36&v=4",
+      "location": null,
+      "pinnedItems": {
+        "totalCount": 2,
+        "edges": [
+          {
+            "node": {
+              "name": "BlockBreaker",
+              "description": null,
+              "forkCount": 0,
+              "stargazers": {"totalCount": 0},
+              "url": "https://github.com/sourabh-swargam/BlockBreaker",
+              "id": "R_kgDOKI4a-w",
+              "diskUsage": 12909,
+              "primaryLanguage": {"name": "C#", "color": "#178600"}
+            }
+          },
+          {
+            "node": {
+              "name": "ImageSegmentation",
+              "description": null,
+              "forkCount": 0,
+              "stargazers": {"totalCount": 0},
+              "url": "https://github.com/sourabh-swargam/ImageSegmentation",
+              "id": "R_kgDOIhvldg",
+              "diskUsage": 8999,
+              "primaryLanguage": {"name": "Python", "color": "#3572A5"}
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/dev-portfolio/static/css/main.605071b3.css",
+    "main.js": "/dev-portfolio/static/js/main.01bdab17.js",
+    "static/css/64.bba8fa55.chunk.css": "/dev-portfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.1692348f.chunk.js": "/dev-portfolio/static/js/64.1692348f.chunk.js",
+    "static/css/769.191dd078.chunk.css": "/dev-portfolio/static/css/769.191dd078.chunk.css",
+    "static/js/769.61dd5f06.chunk.js": "/dev-portfolio/static/js/769.61dd5f06.chunk.js",
+    "static/media/StanfordCertificate.png": "/dev-portfolio/static/media/StanfordCertificate.3d0a5e0bbd785581642f.png",
+    "static/media/Montserrat-Regular.ttf": "/dev-portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/GoogleCertificate.png": "/dev-portfolio/static/media/GoogleCertificate.0ff45cb66598335e2f43.png",
+    "static/media/Agustina.woff": "/dev-portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/studentdashboard.png": "/dev-portfolio/static/media/studentdashboard.6c0146fd0e9964d6756d.png",
+    "static/media/manOnTable.svg": "/dev-portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/TurnkeyLogo.png": "/dev-portfolio/static/media/TurnkeyLogo.c231c7f1dca06a41d56a.png",
+    "static/media/AWSDevAssociate.png": "/dev-portfolio/static/media/AWSDevAssociate.da9861980f5b9d7004a6.png",
+    "static/media/contactMailDark.svg": "/dev-portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/dev-portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/healthcare.png": "/dev-portfolio/static/media/healthcare.b44f1c2b795dfa9f4a67.png",
+    "static/media/healthinsurance.png": "/dev-portfolio/static/media/healthinsurance.62ad3e96b6d757051f0e.png",
+    "static/media/skill.svg": "/dev-portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/UICLogo.PNG": "/dev-portfolio/static/media/UICLogo.3a9dc9d3e0cc5bba2a7f.PNG",
+    "index.html": "/dev-portfolio/index.html",
+    "static/media/talksCardBack.svg": "/dev-portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.605071b3.css.map": "/dev-portfolio/static/css/main.605071b3.css.map",
+    "main.01bdab17.js.map": "/dev-portfolio/static/js/main.01bdab17.js.map",
+    "64.bba8fa55.chunk.css.map": "/dev-portfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.1692348f.chunk.js.map": "/dev-portfolio/static/js/64.1692348f.chunk.js.map",
+    "769.191dd078.chunk.css.map": "/dev-portfolio/static/css/769.191dd078.chunk.css.map",
+    "769.61dd5f06.chunk.js.map": "/dev-portfolio/static/js/769.61dd5f06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.605071b3.css",
+    "static/js/main.01bdab17.js"
+  ]
+}
